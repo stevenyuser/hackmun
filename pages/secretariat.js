@@ -144,7 +144,7 @@ export default function Secretariat() {
                                         <br />
                                         <p className='italic'>ad meliora</p>
                                         <br />
-                                        <p>Advith Sharma, Tibet Yakut, & Steven Yu,</p>
+                                        <p>Vivek Malik and Meredith Lee,</p>
                                         <br />
                                         <p>Secretaries-General of HackMUN IV</p>
                                     </div>

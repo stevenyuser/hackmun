@@ -289,7 +289,7 @@ export default function Conference() {
                         </p>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            If you or a delegate from your school experience financial difficulties but would still like to participate, to keep HackMUN accessible, you may request a fee waiver by simply emailing us by including your name and school information to the HackMUN secretariat at syu@students.hackleyschool.org and tyakut@students.hackleyschool.org.
+                            If you or a delegate from your school experience financial difficulties but would still like to participate, to keep HackMUN accessible, you may request a fee waiver by simply emailing us by including your name and school information to the HackMUN secretariat at vmalik@students.hackleyschool.org and melee@students.hackleyschool.org.
                         </p>
 
                         <h2 className="pt-5 text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
@@ -305,7 +305,7 @@ export default function Conference() {
                         </h2>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            HackMUN does not provide transportations nor cover costs for transportation. If you face financial difficulties traveling to Hackley, please email the secretariat at syu@students.hackleyschool.org and tyakut@students.hackleyschool.org and we will try to help you work out a solution.
+                            HackMUN does not provide transportations nor cover costs for transportation. If you face financial difficulties traveling to Hackley, please email the secretariat at vmalik@students.hackleyschool.org and melee@students.hackleyschool.org and we will try to help you work out a solution.
                         </p>
 
 
