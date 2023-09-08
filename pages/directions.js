@@ -12,7 +12,7 @@ export default function Directions() {
                 <div className="items-center w-full">
                     <div className="mb-8 w-full">
                         <h1 className="text-4xl font-bold leading-snug tracking-tight text-sky-500 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight">
-                            HackMUN IV Directions
+                            HackMUN V Directions
                         </h1>
 
                         {/* desktop */}

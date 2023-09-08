@@ -1,6 +1,6 @@
 ---
-title: "Presidential Cabinet on the U.S. Default on Debt Crisis"
-chairs: "Noah Nager and Advith Sharma"
+title: "Nigerian Civil War"
+chairs: "Meredith Lee and Zariah Stewart"
 email: "usdebthackmun@gmail.com"
 guide: "/guides/usdebtguide.pdf"
 image: "/images/usdebt.png"
