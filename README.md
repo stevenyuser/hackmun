@@ -1,4 +1,4 @@
-creating a website with zero knowledge of js, react, tailwindcss, and nextjs, what could go wrong lol
+Website for the Hackley Model United Nations Club's annual HackMUN conference.
 
 /////
 
