@@ -22,7 +22,7 @@ export default function Conference() {
                         </h2>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            The fifth annual Hackley Model United Nations Conference will be hosted in-person on Saturday, March 2nd, 2024 from 9 AM to 5 PM. It is a single-day regional high school Model UN conference targeted towards inspiring both intellectual debate and enjoyment. The conference is organized by the Hackley School Model United Nations Club. We aim to explore contemporary movements, historical moments, and to promote a healthy means of dialogue and conversation for our generation through our various committees. We welcome new and returning participants this year back onto the Hackley hilltop this coming spring!
+                            The fifth annual Hackley Model United Nations Conference will be hosted in-person on Saturday, March 9th, 2024 from 9 AM to 5 PM. It is a single-day regional high school Model UN conference targeted towards inspiring both intellectual debate and enjoyment. The conference is organized by the Hackley School Model United Nations Club. We aim to explore contemporary movements, historical moments, and to promote a healthy means of dialogue and conversation for our generation through our various committees. We welcome new and returning participants this year back onto the Hackley hilltop this coming spring!
                         </p>
 
                         <br />
@@ -208,7 +208,7 @@ export default function Conference() {
                                     Position Papers Due
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Saturday Morning, March 2nd
+                                    Saturday Morning, March 9th
                                 </p>
                             </div>
 
@@ -217,7 +217,7 @@ export default function Conference() {
                                     HackMUN IV Conference
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Saturday, March 2nd
+                                    Saturday, March 9th
                                 </p>
                             </div>
                         </div>
@@ -265,7 +265,7 @@ export default function Conference() {
                                     Position Papers Due
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Saturday Morning, March 2nd
+                                    Saturday Morning, March 9th
                                 </p>
                             </div>
 
@@ -274,7 +274,7 @@ export default function Conference() {
                                     HackMUN V Conference
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Saturday, March 2nd
+                                    Saturday, March 9th
                                 </p>
                             </div>
 
