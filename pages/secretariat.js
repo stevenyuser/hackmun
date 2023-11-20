@@ -93,7 +93,7 @@ export default function Secretariat() {
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
                                                     <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Advith Sharma</h1>
 
-                                                    <p className="mt-2 text-gray-500 capitalize">Co-Secretaries General</p>
+                                                    <p className="mt-2 text-gray-500 capitalize">Under-Secretary General</p>
                                                 </div>
                                             </div>
 
@@ -108,7 +108,22 @@ export default function Secretariat() {
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
                                                     <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Daniel Cai</h1>
 
-                                                    <p className="mt-2 text-gray-500 capitalize">Eternal General Secretary of the Dissolved Hackley Model Union of Soviet Socialist Republics</p>
+                                                    <p className="mt-2 text-gray-500 capitalize">Under-Secretary General</p>
+                                                </div>
+                                            </div>
+
+                                            <p className="mt-4 text-gray-500">Daniel Cai was eternal leader of the Hackley Model USSR before its collapse after the fall of the Hackley Model Berlin Wall. Mr. Cai was known for his persecution of the Co-Secretaries Generals, which was the leading factor in the coup against him. After the coup attempt, Mr. Cai sought refuge in Hanover, New Hampshire. Currently, Mr. Cai is an amateur basketball player that is unable to dunk. Mr. Cai was born in Batman, Turkey, where he was born as Bruce Wayne, before legally changing his name before assuming office as Eternal General Secretary of the now-defunct Hackley Model USSR.</p>
+
+                                        </div>
+
+                                        <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
+                                            <div className="flex flex-col sm:-mx-4 sm:flex-row">
+                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/danielcai_cool.jpeg" alt="" />
+
+                                                <div className="mt-4 sm:mx-4 sm:mt-0">
+                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Elan Suttiratana</h1>
+
+                                                    <p className="mt-2 text-gray-500 capitalize">Under-Secretary General</p>
                                                 </div>
                                             </div>
 

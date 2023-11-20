@@ -43,7 +43,7 @@ export default function Conference() {
 
                             <div className="pt-2">
                                 <p className="text-xl leading-normal font-semibold text-gray-600">
-                                    Morning Committee Session
+                                    Committee Session I
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
                                     9:30-12:00
@@ -61,7 +61,7 @@ export default function Conference() {
 
                             <div className="pt-2">
                                 <p className="text-xl leading-normal font-semibold text-gray-600">
-                                    Afternoon Committee Session 1
+                                    Committee Session II
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
                                     1:00-2:45
@@ -79,7 +79,7 @@ export default function Conference() {
 
                             <div className="pt-2">
                                 <p className="text-xl leading-normal font-semibold text-gray-600">
-                                    Afternoon Committee Session 2
+                                    Committee Session III
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
                                     3:00-4:30
@@ -109,7 +109,7 @@ export default function Conference() {
 
                             <div className="flex justify-between">
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Morning Committee Session
+                                    Committee Session I
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                                     9:30-12:00
@@ -127,7 +127,7 @@ export default function Conference() {
 
                             <div className="flex justify-between">
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Afternoon Committee Session 1
+                                    Committee Session II
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                                     1:00-2:45
@@ -145,7 +145,7 @@ export default function Conference() {
 
                             <div className="flex justify-between">
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Afternoon Committee Session 2
+                                    Committee Session III
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
                                     3:00-4:30
@@ -285,7 +285,7 @@ export default function Conference() {
                         </h2>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            Given the in-person nature of HackMUN V, we will be charging $15 per delegate as a registration fee. To pay for the conference, please make out to &quot;Hackley School&quot; with &quot;Hackley Model United Nations V&quot; in the memo line. Schools can either collect all of the money in one check, or delegates can pay individually. Delegates can give their check to the conference organizers at registration on March 2nd.
+                            Given the in-person nature of HackMUN V, we will be charging $15 per delegate as a registration fee. To pay for the conference, please make out to &quot;Hackley School&quot; with &quot;Hackley Model United Nations V&quot; in the memo line. Schools can either collect all of the money in one check, or delegates can pay individually. Delegates can give their check to the conference organizers at registration on March 9th.
                         </p>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
