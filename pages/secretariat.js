@@ -63,7 +63,7 @@ export default function Secretariat() {
                                                 <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/stevenyu.jpeg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
-                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Steven Yu</h1>
+                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Vivek Malik</h1>
 
                                                     <p className="mt-2 text-gray-500 ">Co-Secretaries General</p>
                                                 </div>
@@ -77,7 +77,7 @@ export default function Secretariat() {
                                                 <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/tibetyakut.jpeg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
-                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Tibet Yakut</h1>
+                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Meredith Lee</h1>
 
                                                     <p className="mt-2 text-gray-500 capitalize">Co-Secretaries General</p>
                                                 </div>
