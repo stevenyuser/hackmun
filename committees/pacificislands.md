@@ -2,7 +2,7 @@
 title: "Conference on Pacific Islands: Rising Sea Levels and Relocation"
 chairs: "Chair TBD"
 email: "pacificislandshackmun@gmail.com"
-guide: "/guides/outerspaceguide.pdf"
+guide: "/guides/placeholder.pdf"
 image: "/images/pacificislands.png"
 description: "Decide how the world will deal with pacific island inhabitants amid the growing climate crisis."
 type: "General Assembly"

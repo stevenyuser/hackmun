@@ -2,7 +2,7 @@
 title: "Avian Flu: Public Health Emergency"
 chairs: "Vivek Malik and Elan Suttiratana"
 email: "avianfluhackmun@gmail.com"
-guide: "/guides/chinesecivilwarguide.pdf"
+guide: "/guides/placeholder.pdf"
 image: "/images/avianflu.jpg"
 description: "Take on roles as government officials and private sector executives to resolve this economic and health crisis catalyzed by an outbreak of the avian flu."
 type: "Crisis Committee"

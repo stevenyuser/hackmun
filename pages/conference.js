@@ -285,11 +285,7 @@ export default function Conference() {
                         </h2>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            Given the in-person nature of HackMUN V, we will be charging $15 per delegate as a registration fee. To pay for the conference, please make out to &quot;Hackley School&quot; with &quot;Hackley Model United Nations V&quot; in the memo line. Schools can either collect all of the money in one check, or delegates can pay individually. Delegates can give their check to the conference organizers at registration on March 9th.
-                        </p>
-
-                        <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            If you or a delegate from your school experience financial difficulties but would still like to participate, to keep HackMUN accessible, you may request a fee waiver by simply emailing us by including your name and school information to the HackMUN secretariat at vmalik@students.hackleyschool.org and melee@students.hackleyschool.org.
+                            Given the in-person nature of HackMUN V, we will be charging $15 per delegate as a registration fee. An online payment portal will be sent out to schools/individuals registered for the conference.
                         </p>
 
                         <h2 className="pt-5 text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">
