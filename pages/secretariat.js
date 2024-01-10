@@ -69,12 +69,12 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hello delegates, I&apos;m Vivek Malik, a junior at Hackley. I&apos;ve always been passionate about debate and international and domestic politics, so Model UN seemed like the perfect activity. In addition to Model UN, I love learning about cellular biology, swimming, and playing table tennis. I&apos;m excited to see all of the delegates at HackMUN!</p>
+                                            <p className="mt-4 text-gray-500">Hello delegates, I&apos;m Vivek Malik, a junior at Hackley. I&apos;ve always been passionate about debate and international and domestic politics, so Model UN seemed like the perfect activity. I have thoroughly enjoyed my experiences both as a delegate and as a MUN club leader throughout high school. In addition to Model UN, I am a captain of the Debate Team and a leader of Hackley STEM Club. I love learning about linguistics, swimming, and playing table tennis. I&apos;m excited to see all of the delegates at HackMUN!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
                                             <div className="flex flex-col sm:-mx-4 sm:flex-row">
-                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/meredith.png" alt="" />
+                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/meredith2.jpeg" alt="" />
 
                                                 <div className="mt-4 sm:mx-4 sm:mt-0">
                                                     <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Meredith Lee</h1>
@@ -83,7 +83,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hi everyone, I&apos;m Tibet Yakut. I&apos;m a Senior at Hackley, and a Co-Secretaries General in our MUN team. I&apos;ve been participating in Model UN conferences since 6th grade. Aside from Model UN, I lead the Chess Club and Students for Refugees Club at Hackley. I&apos;m passionate about computer science, philosophy, and politics. I&apos;m honored to be hosting another HackMUN, and excited to see everyone!</p>
+                                            <p className="mt-4 text-gray-500">Hi everyone, I am Meredith Lee! I am a junior at Hackley and have learned so much from Model throughout high school. I am happy to be a part of the Model UN community because I get to meet amazing people, debate, and have fun. I am interested in business and politics. Aside from MUN, I lead the Hackley Yogis, run cross country, winter track, and spring track, and maintain my top 0.001 percent of Taylor Swift listeners on Spotify. I look forward to seeing all the delegates at HackMUN!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -97,7 +97,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hello all, I&apos;m Advith Sharma, a senior, and have been a Model UN enthusiast since 9th grade. I enjoy the learning and spirit of collaborative problem solving involved in all MUN conferences, whether in-person or virtual! My passion for travel, geography and global affairs have motivated me to start multiple Geo Clubs where younger students can explore these cool topics. I&apos;m interested in the topics of finance, international business and environmental sustainability. I look forward to once again chairing a committee at HackMUN and wish all participating delegates a fun experience! </p>
+                                            <p className="mt-4 text-gray-500">Hi everyone, my name is Zariah Stewart. I am a junior at Hackley and an USG of HackMUN. I began pursuing MUN in the 9th grade and have enjoyed every second of it since. I am also involved in the peer tutoring, admissions, and life guarding programs at Hackley. I am passionate about reading, music, and science. I cannot wait to meet everyone at HackMUN! </p>
 
                                         </div>
 
@@ -112,7 +112,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Daniel Cai was eternal leader of the Hackley Model USSR before its collapse after the fall of the Hackley Model Berlin Wall. Mr. Cai was known for his persecution of the Co-Secretaries Generals, which was the leading factor in the coup against him. After the coup attempt, Mr. Cai sought refuge in Hanover, New Hampshire. Currently, Mr. Cai is an amateur basketball player that is unable to dunk. Mr. Cai was born in Batman, Turkey, where he was born as Bruce Wayne, before legally changing his name before assuming office as Eternal General Secretary of the now-defunct Hackley Model USSR.</p>
+                                            <p className="mt-4 text-gray-500">Hello Delegates, my name is Ben Iaderosa. I am a sophomore at Hackley and an USG of HackMUN. I started doing MUN in early Middle School. At Hackley, I also run track and field, work with admissions, and volunteer with the Hudson Scholars program. I like watching movies, running, and playing video games. I am very excited to meet you all at HackMUN!</p>
 
                                         </div>
 
@@ -127,7 +127,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Daniel Cai was eternal leader of the Hackley Model USSR before its collapse after the fall of the Hackley Model Berlin Wall. Mr. Cai was known for his persecution of the Co-Secretaries Generals, which was the leading factor in the coup against him. After the coup attempt, Mr. Cai sought refuge in Hanover, New Hampshire. Currently, Mr. Cai is an amateur basketball player that is unable to dunk. Mr. Cai was born in Batman, Turkey, where he was born as Bruce Wayne, before legally changing his name before assuming office as Eternal General Secretary of the now-defunct Hackley Model USSR.</p>
+                                            <p className="mt-4 text-gray-500">Hello delegates! My name is Elan Suttiratana, and I am a sophomore at Hackley School. I have been involved in Model United Nations since ninth grade, and joined the Hackley Secretariat this year. Outside of Model UN, I play squash and am an avid reader. I am excited to see all of you at HackMUN!</p>
 
                                         </div>
 

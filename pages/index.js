@@ -68,7 +68,7 @@ export default function Home() {
                 {/* javascript weird, need to keep img, not Image */}
                 <img
                   className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
-                  src="/images/hackmun.jpeg"
+                  src="/images/hackmunnew.png"
                   alt="HackMUN"
                 />
               </div>
