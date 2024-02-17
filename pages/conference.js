@@ -190,7 +190,7 @@ export default function Conference() {
                                     Registration Closes
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Friday, Februrary 23rd
+                                    Friday, Februrary 9th
                                 </p>
                             </div>
 
@@ -199,7 +199,7 @@ export default function Conference() {
                                     Committee Assignments Released
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Saturday, February 24th
+                                    Friday, February 16th
                                 </p>
                             </div>
 
@@ -247,7 +247,7 @@ export default function Conference() {
                                     Registration Closes
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Friday, February 23rd
+                                    Friday, February 9th
                                 </p>
                             </div>
 
@@ -256,7 +256,7 @@ export default function Conference() {
                                     Committee Assignments Released
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Saturday, February 24th
+                                    Friday, February 16th
                                 </p>
                             </div>
 
