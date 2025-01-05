@@ -12,7 +12,7 @@ export default function Conference() {
                 <div className="flex items-center w-full">
                     <div className="mb-8 w-full">
                         <h1 className="text-4xl font-bold leading-snug tracking-tight text-sky-500 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight">
-                            HackMUN V Conference Details
+                            HackMUN VI Conference Details
                         </h1>
 
                         <br />
@@ -22,7 +22,7 @@ export default function Conference() {
                         </h2>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            The fifth annual Hackley Model United Nations Conference will be hosted in-person on Saturday, March 9th, 2024 from 9 AM to 5 PM. It is a single-day regional high school Model UN conference targeted towards inspiring both intellectual debate and enjoyment. The conference is organized by the Hackley School Model United Nations Club. We aim to explore contemporary movements, historical moments, and to promote a healthy means of dialogue and conversation for our generation through our various committees. We welcome new and returning participants this year back onto the Hackley hilltop this coming spring!
+                            The sixth annual Hackley Model United Nations Conference will be hosted in-person on Saturday, March 8th, 2025 from 9 AM to 5 PM. It is a single-day regional high school Model UN conference targeted towards inspiring both intellectual debate and enjoyment. The conference is organized by the Hackley School Model United Nations Club. We aim to explore contemporary movements, historical moments, and to promote a healthy means of dialogue and conversation for our generation through our various committees. We welcome new and returning participants this year back onto the Hackley hilltop this coming spring!
                         </p>
 
                         <br />
@@ -172,7 +172,7 @@ export default function Conference() {
                                     Registration Opens
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Tuesday, January 2nd
+                                    Tuesday, January 7th
                                 </p>
                             </div>
 
@@ -181,7 +181,7 @@ export default function Conference() {
                                     Background Guides Released
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Tuesday, January 2nd
+                                    Saturday, February 1st
                                 </p>
                             </div>
 
@@ -190,7 +190,7 @@ export default function Conference() {
                                     Registration Closes
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Friday, Februrary 9th
+                                    Friday, Februrary 14th
                                 </p>
                             </div>
 
@@ -199,7 +199,7 @@ export default function Conference() {
                                     Committee Assignments Released
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Friday, February 16th
+                                    Monday, February 17th
                                 </p>
                             </div>
 
@@ -208,7 +208,7 @@ export default function Conference() {
                                     Position Papers Due
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Saturday Morning, March 9th
+                                    Saturday Morning, March 8th
                                 </p>
                             </div>
 
@@ -217,7 +217,7 @@ export default function Conference() {
                                     HackMUN IV Conference
                                 </p>
                                 <p className="pt-1 pl-5 text-l leading-normal text-gray-500">
-                                    Saturday, March 9th
+                                    Saturday, March 8th
                                 </p>
                             </div>
                         </div>
@@ -229,7 +229,7 @@ export default function Conference() {
                                     Registration Opens
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Tuesday, January 2nd
+                                    Tuesday, January 7th
                                 </p>
                             </div>
 
@@ -238,7 +238,7 @@ export default function Conference() {
                                     Background Guides Released
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Tuesday, January 2nd
+                                    Saturday, February 1st
                                 </p>
                             </div>
 
@@ -247,7 +247,7 @@ export default function Conference() {
                                     Registration Closes
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Friday, February 9th
+                                    Friday, February 14th
                                 </p>
                             </div>
 
@@ -256,7 +256,7 @@ export default function Conference() {
                                     Committee Assignments Released
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Friday, February 16th
+                                    Monday, February 17th
                                 </p>
                             </div>
 
@@ -265,7 +265,7 @@ export default function Conference() {
                                     Position Papers Due
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Saturday Morning, March 9th
+                                    Saturday Morning, March 8th
                                 </p>
                             </div>
 
@@ -274,7 +274,7 @@ export default function Conference() {
                                     HackMUN V Conference
                                 </p>
                                 <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                                    Saturday, March 9th
+                                    Saturday, March 8th
                                 </p>
                             </div>
 
@@ -285,7 +285,7 @@ export default function Conference() {
                         </h2>
 
                         <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl">
-                            Given the in-person nature of HackMUN V, we will be charging $15 per delegate as a registration fee. An online payment portal will be sent out to schools/individuals registered for the conference.
+                            Given the in-person nature of HackMUN VI, we will be charging $20 per delegate as a registration fee. An online payment portal will be sent out to schools/individuals registered for the conference.
                         </p>
 
                         <h2 className="pt-5 text-2xl font-semibold leading-snug tracking-tight text-gray-800 lg:text-2xl lg:leading-tight xl:text-4xl xl:leading-tight">

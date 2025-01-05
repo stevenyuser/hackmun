@@ -17,7 +17,7 @@ export default function Secretariat() {
                 <div className="items-center w-full">
                     <div className="mb-8 w-full">
                         <h1 className="text-4xl font-bold leading-snug tracking-tight text-sky-500 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight">
-                            HackMUN V Secretariat
+                            HackMUN VI Secretariat
                         </h1>
                     </div>
 
@@ -69,7 +69,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hello delegates, I&apos;m Vivek Malik, a junior at Hackley. I&apos;ve always been passionate about debate and international and domestic politics, so Model UN seemed like the perfect activity. I have thoroughly enjoyed my experiences both as a delegate and as a MUN club leader throughout high school. In addition to Model UN, I am a captain of the Debate Team and a leader of Hackley STEM Club. I love learning about linguistics, swimming, and playing table tennis. I&apos;m excited to see all of the delegates at HackMUN!</p>
+                                            <p className="mt-4 text-gray-500">Hello delegates, I&apos;m Vivek Malik, a senior at Hackley. I&apos;ve always been passionate about debate and international and domestic politics, so Model UN was the perfect activity for me! I have thoroughly enjoyed my experiences both as a delegate and as a MUN club leader throughout high school. In addition to Model UN, I am a captain of the Debate Team and a leader of Hackley STEM Club. I love learning about linguistics, swimming, and playing table tennis. I&apos;m excited to see all of the delegates at HackMUN!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -83,7 +83,7 @@ export default function Secretariat() {
                                                 </div>
                                             </div>
 
-                                            <p className="mt-4 text-gray-500">Hi everyone, I am Meredith Lee! I am a junior at Hackley and have learned so much from Model throughout high school. I am happy to be a part of the Model UN community because I get to meet amazing people, debate, and have fun. I am interested in business and politics. Aside from MUN, I lead the Hackley Yogis, run cross country, winter track, and spring track, and maintain my top 0.001 percent of Taylor Swift listeners on Spotify. I look forward to seeing all the delegates at HackMUN!</p>
+                                            <p className="mt-4 text-gray-500">Hi everyone, I am Meredith Lee! I am a senior at Hackley and have learned so much from Model throughout high school. I am happy to be a part of the Model UN community because I get to meet amazing people, debate, and have fun. I am interested in business and politics. Aside from MUN, I lead the Hackley Yogis, run cross country, winter track, and spring track, and maintain my top 0.001 percent of Taylor Swift listeners on Spotify. I look forward to seeing all the delegates at HackMUN!</p>
                                         </div>
 
                                         <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
@@ -130,6 +130,33 @@ export default function Secretariat() {
                                             <p className="mt-4 text-gray-500">Hello delegates! My name is Elan Suttiratana, and I am a sophomore at Hackley School. I have been involved in Model United Nations since ninth grade, and joined the Hackley Secretariat this year. Outside of Model UN, I play squash and am an avid reader. I am excited to see all of you at HackMUN!</p>
 
                                         </div>
+                                        <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
+                                            <div className="flex flex-col sm:-mx-4 sm:flex-row">
+                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/nikhil.jpeg" alt="" />
+
+                                                <div className="mt-4 sm:mx-4 sm:mt-0">
+                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Nikhil Shah</h1>
+
+                                                    <p className="mt-2 text-gray-500 ">Under-Secretary General</p>
+                                                </div>
+                                            </div>
+
+                                            <p className="mt-4 text-gray-500">Hello delegates! My name is Nikhil Shah and I am a current junior at Hackley. My love for theater and debate led me to Hackley MUN in 9th grade, and I joined the secretariat this year. Outside of Model UN, I have done dozens of musicals. I also enjoy competetive math and computer science, as well as puzzles and chess. I am excited to see everyone at HackMUN this year!</p>
+                                        </div>
+
+                                        <div className="px-12 py-8 transition-colors duration-200 transform border rounded-xl">
+                                            <div className="flex flex-col sm:-mx-4 sm:flex-row">
+                                                <img className="flex-shrink-0 object-cover w-24 h-24 rounded-full sm:mx-4 ring-4 ring-sky-500" src="/images/shreyas.png" alt="" />
+
+                                                <div className="mt-4 sm:mx-4 sm:mt-0">
+                                                    <h1 className="text-xl font-semibold text-gray-700 capitalize md:text-2xl">Shreyas Kuniyil</h1>
+
+                                                    <p className="mt-2 text-gray-500 ">Under-Secretary General</p>
+                                                </div>
+                                            </div>
+
+                                            <p className="mt-4 text-gray-500">Hello delegates, I am Shreyas Kuniyil, and I am a current sophomore at Hackley. My love for international politics and debate led me to Model UN in 9th grade, and I have enjoyed it ever since. Outside of MUN, I am actively involved in the Hackley Debate Program. I look forward to seeing you all at HackMUN!</p>
+                                        </div>
 
                                     </div>
                                 </div>
@@ -145,13 +172,13 @@ export default function Secretariat() {
                                     <div className='py-5 text-l leading-normal text-gray-800 lg:text-l xl:text-l'>
                                         <p>Greetings Delegates!</p>
                                         <br />
-                                        <p>This year&apos;s secretariat for Hackley School&apos;s 5th annual Model UN conference looks to extend its mission and values to both new and returning delegates, moderating debate that is fun, challenging, and transformative to each delegate&apos;s perspective of different facets of our world. In the year 2024, the need for young students to push themselves to think critically about global issues and together find solutions through disagreements, compromises, and discourses are more necessary than ever. </p>
+                                        <p>This year&apos;s secretariat for Hackley School&apos;s 6th annual Model UN conference looks to extend its mission and values to both new and returning delegates, moderating debate that is fun, challenging, and transformative to each delegate&apos;s perspective of different facets of our world. In the year 2024, the need for young students to push themselves to think critically about global issues and together find solutions through disagreements, compromises, and discourses are more necessary than ever. </p>
                                         <br />
-                                        <p>For many of us, the last few years seem to have been a perpetual crisis. To name a few: a global pandemic, a polarizing election culminating on January 6th at the US Capitol, the war in Israel and Ukraine, drought and environmental refugee crises, and the rise of great power competition between the US, Russia, and China. This is an important reminder that our next generation of young delegates attending HackMUN are the ones that will face such challenges in the future and should be prepared to tackle them through unity and collaboration. </p>
+                                        <p>For many of us, the last few years seem to have been a perpetual crisis. To name a few: a global pandemic, a polarizing election culminating on January 6th at the US Capitol, the war in Gaza and Ukraine, drought and environmental refugee crises, and the rise of great power competition between the US, Russia, and China. This is an important reminder that our next generation of young delegates attending HackMUN are the ones that will face such challenges in the future and should be prepared to tackle them through unity and collaboration. </p>
                                         <br />
                                         <p>The United Nations was formed in the aftermath of the second World War. Through this period of time, the UN has presided over what we dub as the Long Peace, where major world powers have not fought each other since 1945. In this peace, our world has changed immeasurably for the better. Technology has driven the human race to new frontiers far in the lands, deep in the oceans, high in the skies, and out there in our galaxy. Global movements for peace and justice have created a world order that, for the first time in history, gives everyday citizens a voice in government. And though we still have a long way to go, in the grand scheme of human civilization our progress has been unprecedented. But today we are once again at a crossroads. War has once again descended onto the European continent, democracies, and autocracies are once again at an impasse, and a new cold war is brewing. This year&apos;s HackMUN conference confers on this turning point in our common history where our Long Peace is ending. For you, each of our delegates, this will be a year to remember - one that will surely transform the world&apos;s geopolitical landscape for decades to come.</p>
                                         <br />
-                                        <p>Thus, this year at HackMUN V, we wish for delegates of all backgrounds, whether first-timers or more polished debaters, to engage with the challenging issues at hand, while having fun and enjoying the experience of an in-person conference. Most importantly, grow and prosper in your perspectives. It is through this that we collectively stand a chance to right our world&apos;s wrongs.</p>
+                                        <p>Thus, this year at HackMUN VI, we wish for delegates of all backgrounds, whether first-timers or more polished debaters, to engage with the challenging issues at hand, while having fun and enjoying the experience of an in-person conference. Most importantly, grow and prosper in your perspectives. It is through this that we collectively stand a chance to right our world&apos;s wrongs.</p>
                                         <br />
                                         <p>Whether in resolving historical crises, addressing pressing current events in a general assembly, or securing the health and economy of the United States in a governmental body, there is something for everyone at HackMUN this year. We encourage you to strike an effective balance during committee between being a leader and a listener, a voice of optimism as well as a voice of practicalism, challenging yourself to be both a team player and the best individual delegate you can be. </p>
                                         <br />
