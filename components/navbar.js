@@ -72,8 +72,7 @@ export default function Navbar() {
                 </div>
               </div>              
               <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
-                <a href='https://docs.google.com/forms/d/e/1FAIpQLSeHoxGGxPg_zFuOzWCkhZ_4MvHC-ATNhuf9cNQ9q_4PIFG2rQ/viewform
-https://docs.google.com/forms/d/e/1FAIpQLSeHoxGGxPg_zFuOzWCkhZ_4MvHC-ATNhuf9cNQ9q_4PIFG2rQ/viewform'
+                <a href='https://docs.google.com/forms/d/e/1FAIpQLSeHoxGGxPg_zFuOzWCkhZ_4MvHC-ATNhuf9cNQ9q_4PIFG2rQ/viewform'
                 className='flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-sky-500 hover:bg-sky-600'>
                   Register
                 </a>

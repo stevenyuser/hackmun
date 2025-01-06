@@ -1,5 +1,5 @@
 ---
-title: "Alien Invasion!"
+title: "Aliens: First Contact"
 chairs: "Nikhil Shah and James Devereaux"
 email: "vmalik@students.hackleyschool.org"
 guide: "/guides/placeholder.pdf"
