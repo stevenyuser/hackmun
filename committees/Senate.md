@@ -1,8 +1,8 @@
 ---
 title: "U.S. Senate"
-chairs: "Beniamino Iaderosa"
-email: "vmalik@students.hackleyschool.org"
-guide: "/guides/placeholder.pdf"
+chairs: "Beniamino Iaderosa and Gabriel Fossner"
+email: "senatehackmun@gmail.com"
+guide: "/guides/senate.pdf"
 image: "/images/senate.png"
 description: "Take on roles as U.S. Senators to debate and resolve the nation's most pressing issues...before it's too late."
 type: "Specialized Committee"
