@@ -1,8 +1,8 @@
 ---
 title: "Aliens: First Contact"
 chairs: "Nikhil Shah and James Devereaux"
-email: "vmalik@students.hackleyschool.org"
-guide: "/guides/placeholder.pdf"
+email: "firstcontacthackmun@gmail.com"
+guide: "/guides/aliens.pdf"
 image: "/images/alien.png"
 description: "Take on roles as political leaders to guide three countries in their response to first contact with extraterritorials."
 type: "Specialized Committee"

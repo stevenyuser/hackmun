@@ -1,8 +1,8 @@
 ---
 title: "DISEC: Red Sea"
-chairs: "Chair TBD"
-email: "vmalik@students.hackleyschool.org"
-guide: "/guides/placeholder.pdf"
+chairs: "Meredith Lee and Shreyas Kuniyil"
+email: "redseahackmun@gmail.com"
+guide: "/guides/disec.pdf"
 image: "/images/disec.png"
 description: "Navigating security and cooperation in the Red Sea: safeguarding a vital global crossroads."
 type: "General Assembly"

@@ -1,8 +1,8 @@
 ---
 title: "China — Three Kingdoms"
 chairs: "Elan Suttiratana and Peter King"
-email: "vmalik@students.hackleyschool.org"
-guide: "/guides/placeholder.pdf"
+email: "threekingdomshackmun@gmail.com"
+guide: "/guides/china3k.pdf"
 image: "/images/china3.png"
 description: "Step Into the Three Kingdoms Era! Become a legendary warlord: strategize, lead, and rewrite history!"
 type: "Crisis Committee"
